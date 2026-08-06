@@ -1,4 +1,4 @@
-# Parallax-v1
+# Parallax-v1 (Windows setup)
 
 ### How to use:
 
