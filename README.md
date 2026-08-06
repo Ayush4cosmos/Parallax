@@ -21,3 +21,7 @@ For the Browser:
 Do **not** move or delete the `.dll` files relative to `ParallaxOverlay.exe`. Executables rely on these dynamic link libraries at runtime, so they must always remain in the exact same directory.
 
 > **Note:** If Windows SmartScreen shows a *"Windows protected your PC"* warning, click **More info** and then click **Run anyway**.
+
+## Support
+If this project helped you or you liked it, please give it a ⭐️ star on GitHub! It helps the project grow and reach more people.
+For any bugs and queries do reach out 
