@@ -24,4 +24,5 @@ Do **not** move or delete the `.dll` files relative to `ParallaxOverlay.exe`. Ex
 
 ## Support
 If this project helped you or you liked it, please give it a ⭐️ star on GitHub! It helps the project grow and reach more people.
-For any bugs and queries do reach out 
+
+For any bugs, queries or suggestions please do reach out :)
